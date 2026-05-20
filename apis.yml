@@ -25,6 +25,8 @@ tags:
   - Wealth Management
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/lpl-financial-holdings-inc
   - type: Website
     url: https://www.lpl.com
   - type: Investor Relations
