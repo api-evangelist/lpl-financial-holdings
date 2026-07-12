@@ -25,6 +25,8 @@ tags:
   - Wealth Management
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/lpl-financial-holdings-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/lpl-financial-holdings-inc
   - type: Website
