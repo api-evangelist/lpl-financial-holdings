@@ -9,9 +9,20 @@ description: >-
   public developer program; APIs and integrations are operated under the LPL
   Financial subsidiary brand for partners and advisors.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Subject
 access: Internal
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/lpl-financial-holdings.png
 url: >-
   https://raw.githubusercontent.com/api-evangelist/lpl-financial-holdings/refs/heads/main/apis.yml
 created: '2026-03-24'
