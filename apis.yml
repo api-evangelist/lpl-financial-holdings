@@ -30,6 +30,12 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 tags:
   - Broker-Dealer
+  - Financial-Services
+  - Holding Company
+  - Investment Advisory
+  - Wealth Management
+tags_raw:
+  - Broker-Dealer
   - Financial Services
   - Holding Company
   - Investment Advisory
