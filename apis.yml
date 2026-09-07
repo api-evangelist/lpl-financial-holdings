@@ -66,3 +66,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-parent: lpl-financial
+x-relationship: product
