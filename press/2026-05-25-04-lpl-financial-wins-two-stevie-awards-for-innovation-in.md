@@ -1,7 +1,9 @@
 ---
 title: LPL Financial Wins Two Stevie Awards for Innovation in ...
 url: https://www.barchart.com/story/news/1930464/lpl-financial-wins-two-stevie-awards-for-innovation-in-artificial-intelligence
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"LPL Financial Holdings" press release artificial intelligence'
 position: 4
 source: serpapi-google
