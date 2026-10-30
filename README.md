@@ -1,4 +1,4 @@
-# LPL Financial Holdings (lpl-financial-holdings)
+# LPL Financial Holdings
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,38 +66,77 @@
 
 LPL Financial Holdings Inc. (NASDAQ: LPLA) is the parent company of LPL Financial LLC, one of the largest independent broker-dealers in the United States and a leading retail investment advisory firm. The company supports thousands of independent financial advisors, banks, credit unions, and registered investment advisors. LPL Financial Holdings does not operate a public developer program; APIs and integrations are operated under the LPL Financial subsidiary brand for partners and advisors.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/lpl-financial-holdings/refs/heads/main/apis.yml)
+**Areas:** Broker-Dealer · Financial Services · Holding Company · Investment Advisory · Wealth Management
 
-## Scope
+## LPL Financial Holdings on APIs.io
 
-- **Type:** Index
-- **Position:** Subject
-- **Access:** Internal
+Everything profiled for LPL Financial Holdings is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lpl-financial-holdings/](https://apis.io/providers/lpl-financial-holdings/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Broker-Dealer
-- Financial Services
-- Holding Company
-- Investment Advisory
-- Wealth Management
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Lpl Financial Holdings Domain Security](https://apis.io/security/lpl-financial-holdings/lpl-financial-holdings-domain-security/)
 
-No public APIs have been documented at the holding-company level. See the LPL Financial subsidiary for partner integrations.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.lpl.com)
-- [Investor Relations](https://investor.lpl.com)
-- [Subsidiary](https://www.lplfinancial.com)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Kin Score 2.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.6** — Securities & Market Data
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lpl-financial-holdings/](https://apis.io/providers/lpl-financial-holdings/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for LPL Financial Holdings: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lpl-financial-holdings/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
